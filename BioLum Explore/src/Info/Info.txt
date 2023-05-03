@@ -1,0 +1,188 @@
+>Aquatica lateralis
+Location: Russia, Japan, and Korea
+Discovery: 1860
+Size: 6.5-10.5mm
+Light Color: Yellow-Green
+Common Name: Heike Firefly
+
+>Curtos okinawanus
+Location: Okinawa (Japan)
+Discovery: 1918
+Size: 5mm
+Light Color: Yellow
+Common Name: Okinawan Firefly
+
+>Cypridina noctiluca
+Location: Pacific and Indian Ocean
+Discovery: 1912
+Size: 2.5mm
+Light Color: Blue
+Common Name: n/a
+
+>Diaphanes nubilus
+Location: Taiwan
+Discovery: 2001
+Size: 1.5mm
+Light Color: Yellow-Green
+Common Name: n/a
+
+>Lamprohiza splendidula
+Location: Europe
+Discovery: 1767
+Size: 11-12mm
+Light Color: Yellow-Green
+Common Name: Lesser Firefly
+
+>Lampyris noctiluca
+Location: Europe and Northern Asia
+Discovery: 1758
+Size: 20-23mm
+Light Color: Yellow-Green
+Common Name: Common European Firefly
+
+>Lampyris sardiniae
+Location: Sardinia (Italy)
+Discovery: 1987
+Size: 25mm
+Light Color: Yellow-Green
+Common Name: Sardinian Firefly
+
+>Lucidina biplagiata
+Location: Japan and Taiwan
+Discovery: 1866
+Size: 10mm
+Light Color: Yellow-Green
+Common Name: n/a
+
+>Luciola italica
+Location: Italy
+Discovery: 1767
+Size: 6mm
+Light Color: Yellow
+Common Name: Italian Firefly
+
+>Luciola mingrelica
+Location: Europe and Russia
+Discovery: 1854
+Size: 10mm
+Light Color: Yellow-Green
+Common Name: n/a
+
+>Microphotus fragilis
+Location: North America
+Discovery: 1912
+Size: 12-20mm
+Light Color: Yellow-Green
+Common Name: Fragile Firefly
+
+>Nipponoluciola cruciata
+Location: Japan
+Discovery: 1854
+Size: 10-18mm
+Light Color: Yellow-Green
+Common Name: Genji Firefly
+
+>Noctiluca scintillans
+Location: Seas and Oceans Worldwide
+Discovery: 1921
+Size: 400-1500 micrometers
+Light Color: Blue
+Common Name: Sea Sparkle
+
+>Nyctophila reichii
+Location: Spain, Portugal, and Mediterranean Coasts
+Discovery: 1859 
+Size: 8-20mm
+Light Color: Yellow-Green
+Common Name: Mediterranean Pale Firefly
+
+>Phausis reticulata
+Location: North America
+Discovery: 1825
+Size: 5-9mm
+Light Color: Blue
+Common Name: Blue Ghost Firefly
+
+>Phosphaenus hemipterus
+Location: Europe and North America
+Discovery: 1762
+Size: 6-10mm
+Light Color: Yellow-Green
+Common Name: Lesser Black Firefly
+
+>Photinus pyralis
+Location: North America
+Discovery: 1767
+Size: 10-14mm
+Light Color: Yellow
+Common Name: Common Eastern Firefly
+
+>Photinus scintillans
+Location: North America
+Discovery: 1825
+Size: 3mm
+Light Color: Yellow
+Common Name: Pine Barrens Firefly
+
+>Photuris congener
+Location: Florida and Georgia (North America)
+Discovery: 1852
+Size: 15mm
+Light Color: Yellow
+Common Name: Florida Single Snappy
+
+>Photuris pensylvanica
+Location: Eastern North America
+Discovery: 1774
+Size: 11-15mm
+Light Color: Yellow
+Common Name: Pennsylvania Firefly
+
+>Pleotomus pallens
+Location: North America
+Discovery: 1866
+Size: 12mm
+Light Color: Yellow-Green
+Common Name: n/a
+
+>Pristolycus sagulatus
+Location: Japan
+Discovery: 1883
+Size: 8mm
+Light Color: Yellow-Green
+Common Name: n/a
+
+>Pyrocoelia miyako
+Location: Japan
+Discovery: 1981
+Size: 10mm
+Light Color: Green
+Common Name: n/a
+
+>Pyrocoelia rufa
+Location: Asia
+Discovery: 1886
+Size: 15mm
+Light Color: Green
+Common Name: n/a
+
+>Stenocladius flavipennis
+Location: Japan
+Discovery: 1999
+Size: 8mm
+Light Color: Yellow-Green
+Common Name: n/a
+
+>Vargula hilgendorfii
+Location: Japanese Coast
+Discovery: 1890
+Size: 3mm
+Light Color: Blue
+Common Name: Sea Firefly
+
+>Vargula tsujii
+Location: California Coast (North America)
+Discovery: 1977
+Size: 2mm
+Light Color: Blue
+Common Name: California Sea Firefly
